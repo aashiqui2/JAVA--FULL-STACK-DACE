@@ -1,7 +1,13 @@
 # Java Programming Revision
 ## Topics
-1.Array 
-
+1.Java intro
+2.Basic Java Programming Practice
+3.Array Program Practice
+4.Exception Handling
+5.Collection
+6.Lambda Expression
+7.Stream API
+8.Optional Class
 
 
 ## Questions:
