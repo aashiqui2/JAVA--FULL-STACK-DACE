@@ -1,1 +1,62 @@
 *.class
+# =========================
+# Eclipse IDE files
+# =========================
+.project
+.classpath
+.settings/
+.metadata/
+bin/
+tmp/
+
+# =========================
+# Java build files
+# =========================
+*.class
+*.jar
+*.war
+*.ear
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IntelliJ (if opened accidentally)
+# =========================
+.idea/
+*.iml
+
+# =========================
+# VS Code (optional)
+# =========================
+.vscode/
+
+# =========================
+# Maven (if used)
+# =========================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# =========================
+# Gradle (if used)
+# =========================
+.gradle/
+build/
+
+# =========================
+# Temporary / Backup files
+# =========================
+*.swp
+*~
